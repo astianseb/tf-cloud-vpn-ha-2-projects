@@ -1,13 +1,3 @@
-billing_account = "01CF89-BC7A7D-004102"
-project_name_a  = "sg-cloud"
-project_name_b  = "sg-onprem"
+billing_account = "015A40-CE2160-A88AE1"
 region_a        = "europe-central2"
 region_b        = "europe-west1"
-projects = {
-  project_a = {
-    name = "sg-cloud"
-  }
-  project_b = {
-    name = "sg-onprem"
-  }
-}

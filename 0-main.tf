@@ -1,12 +1,6 @@
 variable "region_a" {}
 variable "region_b" {}
 
-
-variable "project_name_a" {}
-
-variable "project_name_b" {}
-
-
 variable "billing_account" {}
 
 locals {
