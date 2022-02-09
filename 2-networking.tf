@@ -4,7 +4,7 @@ locals {
                             { project       = project,
                               subnet_name   = v.subnet_name,
                               subnet_region = v.subnet_region,
-                              subnet_cidr = v.subnet_cidr }]])
+                              subnet_cidr   = v.subnet_cidr }]])
 
 }
 
